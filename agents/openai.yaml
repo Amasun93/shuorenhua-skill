@@ -1,7 +1,8 @@
 interface:
   display_name: "说人话｜专业概念解释 Skill"
-  short_description: "用生活场景讲懂陌生的专业概念"
+  short_description: "用生活场景讲懂各领域的专业知识"
   default_prompt: "使用 $professional-explainer-zh，把这个专业概念用生活场景讲清楚，并说明它对我有什么影响。"
 
 policy:
   allow_implicit_invocation: true
+
