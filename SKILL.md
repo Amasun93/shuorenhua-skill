@@ -1,5 +1,5 @@
 ---
-name: professional-explainer-zh
+name: shuorenhua-skill
 description: 用生活化场景、术语映射和简洁判断，帮助没有专业背景的读者理解各领域的专业知识。用户询问术语、制度、系统关系、方案比较、功能用法或专业材料时使用；单纯去 AI 味或润色中文时不要套用。
 ---
 
