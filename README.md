@@ -12,7 +12,7 @@
 
 ```text
 请帮我安装这个 Skill，并告诉我安装后怎么使用：
-https://github.com/Amasun93/professional-explainer-zh
+https://github.com/Amasun93/shuorenhua-skill
 ```
 
 ## 怎么用
